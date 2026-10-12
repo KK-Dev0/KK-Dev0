@@ -1,20 +1,20 @@
-## Hi there 👋
-
 <!-- ═══════════ HEADER ═══════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Kaushikee%20Karmakar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=aka%20Piks%20%E2%80%A2%20ML%20%2B%20Python%20%E2%80%A2%20Building%20in%20public&descAlignY=60&descSize=18" width="100%"/>
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=BCA+student+%40+Asansol+Engineering+College;I+train+models+AND+ship+them+%F0%9F%9A%80;A+code+has+Opinions+and+not+Bugs+%F0%9F%AB%AF;Hacktoberfest+2026+Completionist+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=BCA+student+%40+Asansol+Engineering+College;Computer+vision+%26+NLP;A+code+has+Opinions+and+not+Bugs+%F0%9F%98%8C;Hacktoberfest+2026+Completionist+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=KK-Dev0&label=Profile%20views&color=7c3aed&style=for-the-badge)
 ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest%202026-Completionist-8A2BE2?style=for-the-badge&logo=hacktoberfest&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-9.41-22c55e?style=for-the-badge)
+![CGPA](https://img.shields.io/badge/Year%201%20CGPA-9.48-22c55e?style=for-the-badge)
+![Year 2](https://img.shields.io/badge/Year%202%20CGPA-9.09-22c55e?style=for-the-badge)
 
+<a href="https://kk-dev0.github.io"><img src="https://img.shields.io/badge/Portfolio-kk--dev0.github.io-7c3aed?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+<a href="https://kk-dev0.github.io/assets/Kaushikee_Karmakar_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-ef4444?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/kaushikee-karmakar-88039a21a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://dev.to/piks_dev"><img src="https://img.shields.io/badge/DEV.to-piks__dev-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 <a href="mailto:kaushikeekarmakar@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -25,11 +25,11 @@
 
 ## 👋 Hey, I'm Piks
 
-I'm a **3rd-year BCA student** at **Asansol Engineering College** (CGPA **9.48**) who likes turning ML notebooks into things people can actually click on. 🌿
+I'm a **3rd-year BCA student** at **Asansol Engineering College** (Year 1 CGPA **9.48**, Year 2 **9.09**) working on computer vision and NLP, from training models to deploying them as web apps. 🌿
 
-- 🔭 Building: **computer-vision + NLP apps** with real deployments, not just Colab screenshots
+- 🔭 Working on: **computer vision and NLP projects**, from data prep to deployment
 - 🌪️ **SIH 2026 (SIH260070):** Evaluation Lead on a tropical cyclone intensity classifier
-- 🦟 Shipped **Backyard Sweep**, a YOLOv8 mosquito breeding-site detector, for DEV Hacktoberfest 2026
+- 🦟 Built **Backyard Sweep**, a YOLOv8 mosquito breeding-site detector, for DEV Hacktoberfest 2026
 - 🧪 I care about **honest evaluation**: held-out test sets, calibration, confusion matrices. A pretty accuracy number means nothing if the model fails where it matters
 - 🛠️ In progress: a **Student Dropout prediction web app** and a **healthcare AI/ML project**
 - 🎨 Off-screen: nature & the outdoors 🌳, sketching, creative arts, psychology, sports, and way too much fun tech
@@ -89,7 +89,7 @@ I'm a **3rd-year BCA student** at **Asansol Engineering College** (CGPA **9.48**
 <td width="50%" valign="top">
 
 ### 📄 Document Classification AI
-**NLP classifier for 6 topics.** TF-IDF + tuned Linear SVM (**91% accuracy**), benchmarked against sentence embeddings, deployed as a Streamlit app. SparkIIT AI Internship, Project 1.
+**NLP classifier for 6 topics.** TF-IDF + tuned Linear SVM (**91% accuracy**), benchmarked against sentence embeddings, deployed as a Streamlit app. SparkIIT AI Training Program capstone.
 
 `scikit-learn` `TF-IDF` `SVM` `Streamlit`
 
@@ -157,7 +157,6 @@ TaskFlow is a full-stack productivity app I built with Flask and vanilla JavaScr
 ![SIH](https://img.shields.io/badge/SIH%202026-Evaluation%20Lead-f97316?style=for-the-badge)
 ![IHMMC](https://img.shields.io/badge/IHMMC%202026-Hardware%20Model-0ea5e9?style=for-the-badge)
 ![GDGC](https://img.shields.io/badge/GDGC%20AEC-Web%20Dev%20Bootcamp-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-9.41-22c55e?style=for-the-badge)
 
 </div>
 
@@ -191,6 +190,8 @@ TaskFlow is a full-stack productivity app I built with Flask and vanilla JavaScr
 
 I'm always up for **ML projects, hackathon teams, and open-source collabs**.
 
+<a href="https://kk-dev0.github.io"><img src="https://img.shields.io/badge/Portfolio-kk--dev0.github.io-7c3aed?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+<a href="https://kk-dev0.github.io/assets/Kaushikee_Karmakar_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-ef4444?style=for-the-badge"/></a>
 <a href="https://www.linkedin.com/in/kaushikee-karmakar-88039a21a/"><img src="https://img.shields.io/badge/LinkedIn-Kaushikee%20Karmakar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://dev.to/piks_dev"><img src="https://img.shields.io/badge/DEV.to-piks__dev-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 <a href="mailto:kaushikeekarmakar@gmail.com"><img src="https://img.shields.io/badge/Email-kaushikeekarmakar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
