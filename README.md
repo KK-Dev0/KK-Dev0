@@ -171,10 +171,10 @@ Flask + SQLite to-do list with a soft glassmorphism UI. *little steps, big progr
 
 ---
 
-## 📈 Activity
+## 📈 Contributions
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KK-Dev0&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true" width="100%"/>
+<img src="https://ghchart.rshah.org/7c3aed/KK-Dev0" alt="KK-Dev0 contribution chart" width="90%"/>
 </div>
 
 ---
