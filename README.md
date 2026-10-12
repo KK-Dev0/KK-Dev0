@@ -149,10 +149,16 @@ Flask + SQLite to-do list with a soft glassmorphism UI. *little steps, big progr
 
 </div>
 
-### 🏆 Trophies
+### 🏆 Highlights
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=KK-Dev0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" />
+
+![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest%202026-Completionist-8A2BE2?style=for-the-badge&logo=hacktoberfest&logoColor=white)
+![SIH](https://img.shields.io/badge/SIH%202026-Evaluation%20Lead-f97316?style=for-the-badge)
+![IHMMC](https://img.shields.io/badge/IHMMC%202026-Hardware%20Model-0ea5e9?style=for-the-badge)
+![GDGC](https://img.shields.io/badge/GDGC%20AEC-Web%20Dev%20Bootcamp-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-9.41-22c55e?style=for-the-badge)
+
 </div>
 
 ---
