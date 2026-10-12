@@ -25,7 +25,7 @@
 
 ## 👋 Hey, I'm Piks
 
-I'm a **3rd-year BCA student** at **Asansol Engineering College** (CGPA **9.41**) who likes turning ML notebooks into things people can actually click on. 🌿
+I'm a **3rd-year BCA student** at **Asansol Engineering College** (CGPA **9.48**) who likes turning ML notebooks into things people can actually click on. 🌿
 
 - 🔭 Building: **computer-vision + NLP apps** with real deployments, not just Colab screenshots
 - 🌪️ **SIH 2026 (SIH260070):** Evaluation Lead on a tropical cyclone intensity classifier
@@ -52,7 +52,7 @@ I'm a **3rd-year BCA student** at **Asansol Engineering College** (CGPA **9.41**
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Also:** DSA (Python & Java) • Prompting • Data Structures
+**Also:** DSA (Python Java & C) • Prompting • Data Structures
 
 </div>
 
@@ -110,10 +110,10 @@ I'm a **3rd-year BCA student** at **Asansol Engineering College** (CGPA **9.41**
 <tr>
 <td colspan="2" valign="top">
 
-### ✅ Todo App
-Flask + SQLite to-do list with a soft glassmorphism UI. *little steps, big progress ✦*
+### ✅ TaskFlow
+TaskFlow is a full-stack productivity app I built with Flask and vanilla JavaScript. *little steps, big progress ✦*
 
-`Flask` `SQLite` `HTML/CSS` &nbsp;·&nbsp; [**→ Repo**](https://github.com/KK-Dev0/todo-app)
+`Flask` `SQLite` `HTML/CSS` &nbsp;·&nbsp; [**→ Repo**](https://github.com/KK-Dev0/TaskFlow)
 
 </td>
 </tr>
